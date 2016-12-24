@@ -1,0 +1,89 @@
+
+poi 25.0 575.0 1 home
+poi 75.0 500.0 2 home
+poi 175.0 575.0 3 home
+poi 0.0 250.0 4 park
+poi 125.0 350.0 5 gym
+poi 125.0 250.0 6 pool
+poi 0.0 150.0 7 home
+poi 125.0 150.0 8 home
+poi 0.0 75.0 9 home
+poi 125.0 75.0 10 home
+poi 0.0 0.0 11 home
+poi 125.0 0.0 12 home
+poi 400.0 550.0 13 office1
+poi 400.0 500.0 14 office2
+poi 375.0 450.0 15 office3
+poi 375.0 300.0 16 office4
+poi 350.0 200.0 17 hospital1
+poi 300.0 150.0 18 hospital2
+poi 350.0 75.0 19 hospital3
+poi 550.0 175.0 20 restaurant
+poi 450.0 0.0 21 mall1
+poi 525.0 100.0 22 mall2
+poi 625.0 125.0 23 pub
+poi 650.0 350.0 24 hostel
+poi 575.0 500.0 25 college1
+poi 650.0 450.0 26 college2
+poi 750.0 475.0 27 college3
+poi 875.0 150.0 28 market
+poi 925.0 0.0 29 home12
+poi 925.0 125.0 30 home12
+poi 925.0 250.0 31 home12
+poi 350.0 25.0 32 F1
+poi 250.0 225.0 33 F2
+poi 250.0 475.0 34 F3
+poi 525.0 475.0 35 F4
+poi 800.0 475.0 37 F5
+poi 700.0 200.0 38 F6
+poi 525.0 225.0 39 F7
+poi 650.0 25.0 40 F8
+poi 875.0 225.0 41 F9
+building  300.0  75.0 75 50 Block1
+building  300.0  175.0 50 50 Block2
+building  375.0  75.0 150 75 Block3
+building  300.0  275.0 200 75 Block4
+building  400.0  275.0 200 100 Block5
+building  300.0  500.0 100 100 Block6
+building  425.0  500.0 100 75 Block7
+building  550.0  525.0 75 250 Block8
+building  550.0  275.0 200 100 Block9
+triangle  700.0  275.0 700.0 475.0 775.0 475.0
+triangle  600.0  0.0 600.0 225.0 675.0 225.0
+triangle  750.0 0.0 1000.0 0 1000.0 600.0
+polygon   675.0 0.0 750.0 0.0 1000.0 600.0 925.0 600.0 River
+polygon   762.0 25.0 900.0 25.0 900.0 175.0 825.0 175.0 Market
+obstacle  525.0 250.0 75.0 road
+obstacle  525.0 250.0 10.0 circle
+building  0.0  25.0 50 100 Home
+building  0.0  100.0 50 100 Home
+building  0.0  175.0 50 100 Home
+building  125.0  25.0 50 100 Home
+building  125.0  100.0 50 100 Home
+building  125.0  175.0 50 100 Home
+building  0.0  275.0 200 100 Park
+building  0.0  500.0 100 225 Street
+building  125.0  275.0 75 100 Pool
+building  0.0  525.0 50 50 Home
+building  75.0  525.0 50 50 Home
+building  150.0  525.0 50 50 Home
+building  125.0  375.0 100 100 Gym
+building  325.0  100.0 100 75 Hospital
+building  325.0  325.0 125 150 Office
+building  325.0  500.0 75 75 Office
+building  425.0  500.0 75 50 Office
+building  575.0  325.0 100 50 Hostel
+building  600.0  450.0 125 150 College
+building  475.0  125.0 50 100 Restaurant
+building  475.0  0.0 100 100 Mall
+building  600.0 25.0 200 25 Pub
+building  675.0 0.0 50 125 Bridge
+building  850.0 475.0 75 125 Bridge
+building 950.0 250.0 100 50 Home
+building 950.0 125.0 100 50 Home
+building 950.0 0.0 100 50 Home
+road      600  0.0 25 75 5
+agent  2.0  2.0 0.273735714978
+agent  38.0  3.0 0.271000660564
+agent  20.0  38.0 0.344191782153
+agent  39.0  20.0 0.333299795407
